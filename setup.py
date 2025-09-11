@@ -7,9 +7,9 @@ setup(
     package_dir = {'': 'src'},
     install_requires = [
         #list dependencies here
-        're',
-        'typing',
-        'collections'
+        #'re',
+        #'typing',
+        #'collections'
     ],
     entry_points = {
         'console_scripts':[
